@@ -1,0 +1,46 @@
+# KiForge output directory
+kiforge/
+
+# KiCad & KiForge patterns added by KiForge
+*.lck
+*.tmp
+fp-info-cache
+_autosave-*
+*.bak
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+.history/
+
+# KiCad & KiForge patterns added by KiForge
+*.000
+*.bck
+*.sch-bak
+*-backups
+*-save.pro
+*-save.kicad_pcb
+*~
+~*.lck
+\#auto_saved_files#
+*.kicad_prl
+fp-lib-table
+sym-lib-table
+fabrication-toolkit-options.json
+*.xml
+*.csv
+*.pos
+*.svg
+*.step
+*.pdf
+*.swp
+*.png
+*.jpeg
+*.kicad_mod
+*.kicad_sym
+*.dxf
+*.DXF
+*.net
+*.dsn
+*.ses
+bom/
+production/
